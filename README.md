@@ -15,8 +15,7 @@
 
 ## ✏️ About
 
-This is the backend for the final project of the Explorer course at [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course assignments click [this link](https://github.com/jeadamek/explorer-rocketseat). 
-
+This is the backend for the final project of the Explorer course at [Rocketseat School](https://www.rocketseat.com.br/).
 
 In this project, the challenge was to build an API using Node.js, the frontend was developed using Reactjs, to access click on [this link](https://github.com/igor1203/food-explorer-frontend).
 
